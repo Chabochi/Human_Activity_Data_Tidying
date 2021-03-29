@@ -1,1 +1,1 @@
-# G-C-Coursera-Project
+# GC-Coursera-Project
