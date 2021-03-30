@@ -1,0 +1,99 @@
+DATA DICTIONARY - Human Activity Recognition Mean
+
+Variables obtained from sensor signals.
+
+	The 79 variables registered result from the average calculation of mean and standard 
+	deviation measurements of triaxial acceleration from the accelerometer and the triaxial 
+	Angular velocity from the gyroscope filtered by activity or subject. The variables registered 
+	can be read on the annex 1.
+
+Activities
+
+	Variables were measured during 6 activities than include walking, walking upstairs, walking 
+	downstairs. sitting, standing, and laying. Each activity was identified with the names Walk, 
+	Walkup, Walkdown, Sit, Stand and Lay accordingly.
+
+Subjects
+	Variables were recorded among 30 subjects; each subject was identified by the word
+	Subject and a subsequent number from one to thirty.
+
+[Annex 1]
+"AveragetBodyAcc-mean()-X"               
+"AveragetBodyAcc-mean()-Y"             
+"AveragetBodyAcc-mean()-Z"              
+"AveragetBodyAcc-std()-X"              
+"AveragetBodyAcc-std()-Y"               
+"AveragetBodyAcc-std()-Z"               
+"AveragetGravityAcc-mean()-X"         
+"AveragetGravityAcc-mean()-Y"          
+"AveragetGravityAcc-mean()-Z"           
+"AveragetGravityAcc-std()-X"       
+"AveragetGravityAcc-std()-Y"             
+"AveragetGravityAcc-std()-Z"            
+"AveragetBodyAccJerk-mean()-X"        
+"AveragetBodyAccJerk-mean()-Y"           
+"AveragetBodyAccJerk-mean()-Z"          
+"AveragetBodyAccJerk-std()-X"         
+"AveragetBodyAccJerk-std()-Y"           
+"AveragetBodyAccJerk-std()-Z"           
+"AveragetBodyGyro-mean()-X"        
+"AveragetBodyGyro-mean()-Y"            
+"AveragetBodyGyro-mean()-Z"             
+"AveragetBodyGyro-std()-X"          
+"AveragetBodyGyro-std()-Y"            
+"AveragetBodyGyro-std()-Z"              
+"AveragetBodyGyroJerk-mean()-X"        
+"AveragetBodyGyroJerk-mean()-Y"         
+ "AveragetBodyGyroJerk-mean()-Z"         
+"AveragetBodyGyroJerk-std()-X"      
+ "AveragetBodyGyroJerk-std()-Y"          
+"AveragetBodyGyroJerk-std()-Z"          
+"AveragetBodyAccMag-mean()"          
+"AveragetBodyAccMag-std()"           
+"AveragetGravityAccMag-mean()"          
+"AveragetGravityAccMag-std()"       
+"AveragetBodyAccJerkMag-mean()"     
+"AveragetBodyAccJerkMag-std()"          
+"AveragetBodyGyroMag-mean()"        
+"AveragetBodyGyroMag-std()"          
+"AveragetBodyGyroJerkMag-mean()"        
+"AveragetBodyGyroJerkMag-std()"       
+"AveragefBodyAcc-mean()-X"          
+"AveragefBodyAcc-mean()-Y"              
+"AveragefBodyAcc-mean()-Z"           
+"AveragefBodyAcc-std()-X"            
+"AveragefBodyAcc-std()-Y"               
+"AveragefBodyAcc-std()-Z"              
+"AveragefBodyAcc-meanFreq()-X"      
+"AveragefBodyAcc-meanFreq()-Y"          
+"AveragefBodyAcc-meanFreq()-Z"         
+"AveragefBodyAccJerk-mean()-X"           
+"AveragefBodyAccJerk-mean()-Y"          
+"AveragefBodyAccJerk-mean()-Z"      
+"AveragefBodyAccJerk-std()-X"           
+"AveragefBodyAccJerk-std()-Y"           
+"AveragefBodyAccJerk-std()-Z"        
+"AveragefBodyAccJerk-meanFreq()-X"      
+"AveragefBodyAccJerk-meanFreq()-Y"      
+"AveragefBodyAccJerk-meanFreq()-Z"   
+"AveragefBodyGyro-mean()-X"         
+"AveragefBodyGyro-mean()-Y"             
+"AveragefBodyGyro-mean()-Z"         
+"AveragefBodyGyro-std()-X"            
+"AveragefBodyGyro-std()-Y"              
+"AveragefBodyGyro-std()-Z"           
+"AveragefBodyGyro-meanFreq()-X"       
+"AveragefBodyGyro-meanFreq()-Y"         
+"AveragefBodyGyro-meanFreq()-Z"     
+"AveragefBodyAccMag-mean()"              
+"AveragefBodyAccMag-std()"              
+"AveragefBodyAccMag-meanFreq()"    
+"AveragefBodyBodyAccJerkMag-mean()"  
+"AveragefBodyBodyAccJerkMag-std()"      
+"AveragefBodyBodyAccJerkMag-meanFreq()" 
+"AveragefBodyBodyGyroMag-mean()"     
+"AveragefBodyBodyGyroMag-std()"         
+"AveragefBodyBodyGyroMag-meanFreq()"  
+"AveragefBodyBodyGyroJerkMag-mean()"    
+"AveragefBodyBodyGyroJerkMag-std()"     
+"AveragefBodyBodyGyroJerkMag-meanFreq()"
