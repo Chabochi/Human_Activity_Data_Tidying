@@ -115,5 +115,6 @@ for (i in 1:30){
 TidyData <- data.frame(matrix(NA, nrow = 36, ncol = 79))
 TidyData <- rbind(avgActTable, avgSubjectTable)
 
-
+#Writing out tiydy data
+write.table(TidyData, file = "TidyData_UCI", row.name=FALSE) 
 
