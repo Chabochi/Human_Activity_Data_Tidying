@@ -1,4 +1,4 @@
-# GC-Coursera-Project
+# Human Activity Data Tidying
 
 ==================================================================
  Human Activity Recognition Using Smartphones Mean Dataset 
